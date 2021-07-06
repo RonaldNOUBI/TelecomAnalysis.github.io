@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Telecom Analysis to take decision
 published: true
 ---
 # BUILDING A MACHINE LEARNING MODEL TO PREDICT CUSTOMER CHURN IN A COMPANY
