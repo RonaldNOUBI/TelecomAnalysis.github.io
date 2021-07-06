@@ -1,10 +1,18 @@
 ---
 layout: post
 title: You're up and running!
+published: true
 ---
+# BUILDING A MACHINE LEARNING MODEL TO PREDICT CUSTOMER CHURN IN A COMPANY
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Customer churn occurs when a customer decides to stop using a company's services, content or products. There are many examples and instances of churn:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+* Cancellation of a contracted or uncontracted service ;
+* Purchase from another competitor's shop;       
+* Unsubscribing from a newsletter;       
+* Closing a bank account;                    
+* Etc.          
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+In today's business environment, with many competitors, the cost of acquiring new customers is very high. Therefore, the retention of existing customers is more important for its companies. Thus, the company needs to better understand the behaviour of its customers in order to retain them. One way to do this is to create **a Machine Learning model that can predict which customers are likely to unsubscribe**. This allows the company to better target and retain those specific customers who are at higher risk of churn.  
+
+In this project, we will explore a dataset from a telecommunications company and create a model to predict which customers are at higher risk of churn. We will use different machine learning algorithms to compare their performance and then choose the best model.       
